@@ -11,7 +11,7 @@
     <properties>
         <drools.version>7.9.0.Final</drools.version>
         <log4j2.version>2.5</log4j2.version>
-        <spring.version>4.2.6.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
